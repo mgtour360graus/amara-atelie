@@ -14,6 +14,11 @@ WebFrame_0C7A2792_2CF6_FD7B_41C1_B454D9EA310E_mobile.url = https://www.google.co
 LinkBehaviour_88459D8D_96A7_4AE8_41B4_3ACDB48EB06A.source = https://www.instagram.com/amaraatelie.oficial/
 LinkBehaviour_85CBA423_92EB_59D8_41C1_8D4A33A309A6.source = https://www.instagram.com/amaraatelie.oficial/
 
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_B79B400F_96AD_59E8_41DB_0DBE7BEE29FD.toolTip = ESTACIONAMENTO 
+
 ## Media
 
 ### Audio
