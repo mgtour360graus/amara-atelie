@@ -3,12 +3,13 @@
 ## Action
 
 ### URL
-LinkBehaviour_85574B7E_92FB_CE28_41DE_EEB1BB75EBEE.source = https://api.whatsapp.com/send?phone=5544998065533&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20
 LinkBehaviour_89B6EA44_969A_CE59_41D2_78DC6713CE8C.source = https://api.whatsapp.com/send?phone=5544998065533&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20
+LinkBehaviour_B0D1E893_976B_CAFF_41B1_54BC36BB6DB2.source = https://api.whatsapp.com/send?phone=5544998065533&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20
+LinkBehaviour_85574B7E_92FB_CE28_41DE_EEB1BB75EBEE.source = https://api.whatsapp.com/send?phone=5544998065533&text=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20Tour%20Virtual%20
 LinkBehaviour_8AD8323A_96A5_3E28_41D8_6AD4C7A03650.source = https://g.co/kgs/24HcyxP
 LinkBehaviour_85E9A9EE_92ED_4A28_41D6_DC99DBC4133F.source = https://g.co/kgs/L46MHng
-LinkBehaviour_88CF0B44_96A6_CE59_41E0_F6E00339C68F.source = https://www.facebook.com/amaraatelie.oficial
 LinkBehaviour_85490483_92ED_5AD8_41C8_53F001B842CB.source = https://www.facebook.com/amaraatelie.oficial
+LinkBehaviour_88CF0B44_96A6_CE59_41E0_F6E00339C68F.source = https://www.facebook.com/amaraatelie.oficial
 WebFrame_0C7A2792_2CF6_FD7B_41C1_B454D9EA310E.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14646.614096607651!2d-51.9230119!3d-23.4007483!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd12416751d01%3A0xcbcbfd3806d4e396!2sAmara%20Ateli%C3%AA%20(antiga%20Eliana%20Noivas)!5e0!3m2!1sen!2sbr!4v1729039025930!5m2!1sen!2sbr
 WebFrame_0C7A2792_2CF6_FD7B_41C1_B454D9EA310E_mobile.url = https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14646.614096607651!2d-51.9230119!3d-23.4007483!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd12416751d01%3A0xcbcbfd3806d4e396!2sAmara%20Ateli%C3%AA%20(antiga%20Eliana%20Noivas)!5e0!3m2!1sen!2sbr!4v1729072168122!5m2!1sen!2sbr
 LinkBehaviour_88459D8D_96A7_4AE8_41B4_3ACDB48EB06A.source = https://www.instagram.com/amaraatelie.oficial/
@@ -46,6 +47,9 @@ panorama_9A040049_910D_5CE7_41C4_19D42D10CF31.label = Amara Ateliê
 panorama_9A042ACE_910D_2DFD_41E0_FC0A40080EB3.label = Amara Ateliê
 
 ## Skin
+
+### Button
+Button_B6CA6F6E_976D_4628_41D4_27BF42402131.label = AGENDE SEU HORÁRIO 
 
 ### Image
 Image_3D9EF928_2C15_7557_4171_42E70FB38AA1_mobile.url = skin/Image_3D9EF928_2C15_7557_4171_42E70FB38AA1_mobile_pt.png
